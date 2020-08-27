@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f64eb59-1a35-4018-93b5-422128850cb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,21 +77,24 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="156" key="GridCell.Tab.0.bottom" timestamp="1598527413691">
+    <state width="1237" height="156" key="GridCell.Tab.0.bottom" timestamp="1598529134195">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="156" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1598527413691" />
-    <state width="1237" height="156" key="GridCell.Tab.0.center" timestamp="1598527413690">
+    <state width="1237" height="156" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1598529134195" />
+    <state width="1237" height="156" key="GridCell.Tab.0.center" timestamp="1598529134194">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="156" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1598527413690" />
-    <state width="1237" height="156" key="GridCell.Tab.0.left" timestamp="1598527413690">
+    <state width="1237" height="156" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1598529134194" />
+    <state width="1237" height="156" key="GridCell.Tab.0.left" timestamp="1598529134194">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="156" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1598527413690" />
-    <state width="1237" height="156" key="GridCell.Tab.0.right" timestamp="1598527413690">
+    <state width="1237" height="156" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1598529134194" />
+    <state width="1237" height="156" key="GridCell.Tab.0.right" timestamp="1598529134194">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="156" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1598527413690" />
+    <state width="1237" height="156" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1598529134194" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WaysToInitializeObjects$MainClass.ic" NAME="MainClass Coverage Results" MODIFIED="1598529134050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
