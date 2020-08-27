@@ -11,4 +11,10 @@ public class Car {
         System.out.println();
     }
 
+    public void initialize(String a3_quattro, String green, int i){
+        model = a3_quattro;
+        colour = green;
+        seats = i;
+    }
+
 }
